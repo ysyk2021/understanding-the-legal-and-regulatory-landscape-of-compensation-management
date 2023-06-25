@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Legal and Regulatory Framework of Compensation Management: Federal and State Compensation Laws and Regulations
-===========================================================================================================================================
+# Federal and State Compensation Laws and Regulations
 
 In this chapter, we will discuss federal and state compensation laws and regulations that employers must understand when designing and managing their compensation packages.
 

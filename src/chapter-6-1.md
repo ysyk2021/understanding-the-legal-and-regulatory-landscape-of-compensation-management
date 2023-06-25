@@ -1,5 +1,4 @@
-Chapter 6: Communicating About Compensation and Benefits: Techniques for Communicating About Compensation and Benefits
-======================================================================================================================
+# Techniques for Communicating About Compensation and Benefits
 
 In this chapter, we will focus on techniques for communicating about compensation and benefits. Effective communication about compensation and benefits is critical for maintaining trust and loyalty among employees. Employers should use the following techniques to communicate effectively about compensation and benefits:
 

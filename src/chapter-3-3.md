@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Legal and Regulatory Framework of Compensation Management: Key Agencies and Enforcement Mechanisms
-===============================================================================================================================
+# Key Agencies and Enforcement Mechanisms
 
 In this chapter, we will discuss the legal and regulatory framework surrounding compensation management. We will explore key agencies and enforcement mechanisms responsible for enforcing relevant laws and regulations.
 

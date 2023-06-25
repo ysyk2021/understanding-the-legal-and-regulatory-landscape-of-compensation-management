@@ -1,5 +1,4 @@
-Chapter 6: Communicating About Compensation and Benefits: Providing Adequate Information on Benefits Options
-============================================================================================================
+# Providing Adequate Information on Benefits Options
 
 In this chapter, we will focus on communicating about compensation and benefits. Effective communication is essential for ensuring that employees have adequate information about their compensation and benefits options.
 

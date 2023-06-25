@@ -1,5 +1,4 @@
-Chapter 8: Ethical Considerations in Compensation Management: Respecting Confidentiality and Privacy
-====================================================================================================
+# Respecting Confidentiality and Privacy
 
 In this chapter, we will focus on ethical considerations in compensation management related to confidentiality and privacy. Employers must consider ethical principles when designing and managing compensation packages to ensure that they respect the confidentiality and privacy of employees.
 

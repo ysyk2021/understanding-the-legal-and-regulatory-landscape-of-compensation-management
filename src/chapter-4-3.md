@@ -1,5 +1,4 @@
-Chapter 4: Designing Compensation Packages that Comply with Legal and Regulatory Requirements: Ensuring Equal Pay and Non-Discrimination
-========================================================================================================================================
+# Ensuring Equal Pay and Non-Discrimination
 
 In this chapter, we will discuss the importance of ensuring equal pay and non-discrimination in designing compensation packages that comply with legal and regulatory requirements. We will explore techniques for identifying and addressing issues related to pay equity and discrimination.
 

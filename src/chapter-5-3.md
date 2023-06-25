@@ -1,5 +1,4 @@
-Chapter 5: Managing Employee Benefits and Perks: Compliance with ERISA and Other Benefit Plan Regulations
-=========================================================================================================
+# Compliance with ERISA and Other Benefit Plan Regulations
 
 In this chapter, we will explore the importance of managing employee benefits and perks in compliance with relevant laws and regulations, such as the Employee Retirement Income Security Act (ERISA) and other benefit plan regulations.
 

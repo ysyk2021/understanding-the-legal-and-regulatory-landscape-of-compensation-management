@@ -1,5 +1,4 @@
-Chapter 4: Designing Compensation Packages that Comply with Legal and Regulatory Requirements: Compliance with Minimum Wage and Overtime Laws
-=============================================================================================================================================
+# Compliance with Minimum Wage and Overtime Laws
 
 In this chapter, we will discuss the legal and regulatory requirements related to minimum wage and overtime laws. We will also explore how employers can design compensation packages that comply with these laws.
 

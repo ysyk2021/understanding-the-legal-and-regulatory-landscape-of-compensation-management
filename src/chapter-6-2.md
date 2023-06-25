@@ -1,5 +1,4 @@
-Chapter 6: Communicating About Compensation and Benefits: Transparency and Clarity in Compensation Disclosures
-==============================================================================================================
+# Transparency and Clarity in Compensation Disclosures
 
 In this chapter, we will focus on the importance of transparency and clarity in compensation disclosures. We will explore why it is essential for employers to be clear and transparent about how compensation decisions are made, as well as the components of compensation packages.
 

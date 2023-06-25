@@ -1,5 +1,4 @@
-Chapter 2: Overview of Compensation Management: The Impact of Compensation on Employee Motivation and Retention
-===============================================================================================================
+# The Impact of Compensation on Employee Motivation and Retention
 
 In this chapter, we will explore the impact of compensation on employee motivation and retention. We will discuss why compensation is important for attracting and retaining top talent, as well as strategies employers can use to design and manage compensation packages that are competitive, fair, and compliant with relevant laws and regulations.
 
