@@ -1,4 +1,4 @@
-Chapter X: Health Insurance, Retirement Plans, and Paid Time Off
+Health Insurance, Retirement Plans, and Paid Time Off
 ================================================================
 
 In the realm of compensation management, organizations not only focus on base salary but also offer various benefits to attract and retain employees. This chapter explores the importance of health insurance, retirement plans, and paid time off as essential components of a comprehensive compensation package. We delve into the legal and regulatory landscape surrounding these benefits and their implications for both employers and employees.
