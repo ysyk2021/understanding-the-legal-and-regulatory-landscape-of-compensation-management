@@ -1,5 +1,3 @@
-Chapter 4: Designing Compensation Packages that Comply with Legal and Regulatory Requirements
-=============================================================================================
 
 In this chapter, we will discuss the importance of designing compensation packages that comply with legal and regulatory requirements. We will explore techniques for designing these packages effectively and ensuring compliance with relevant laws and regulations.
 

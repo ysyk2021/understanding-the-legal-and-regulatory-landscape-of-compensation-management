@@ -1,5 +1,3 @@
-Chapter 8: Ethical Considerations in Compensation Management
-============================================================
 
 Compensation management is a critical function for organizations, and it involves making decisions that impact the lives of employees. As such, it is important to consider ethical considerations when designing and implementing compensation plans. In this chapter, we will explore techniques for addressing ethical considerations in compensation management, as well as ways to respect confidentiality and privacy and avoid conflicts of interest and corruption.
 

@@ -1,5 +1,3 @@
-Chapter 3: Understanding the Legal and Regulatory Framework of Compensation Management
-======================================================================================
 
 In this chapter, we will discuss the legal and regulatory framework surrounding compensation management. We will explore techniques for understanding this framework, as well as federal and state compensation laws and regulations and key agencies and enforcement mechanisms responsible for enforcing relevant laws and regulations.
 
@@ -37,5 +35,4 @@ Conclusion
 ----------
 
 Understanding the legal and regulatory framework surrounding compensation management is essential for complying with relevant laws and regulations and avoiding legal issues related to compensation. By utilizing techniques such as researching relevant laws and regulations, consulting with legal counsel or human resources professionals, attending training and education programs, and utilizing online resources, employers can stay up-to-date on changes in the field and ensure compliance with relevant laws and regulations. Employers must also comply with both federal and state compensation laws and regulations and understand key agencies and enforcement mechanisms responsible for enforcing these laws and regulations.
-
 

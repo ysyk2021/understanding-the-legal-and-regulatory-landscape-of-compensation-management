@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Compensation management is a critical aspect of human resources management. Effective compensation management involves designing and managing compensation packages that are competitive, fair, and compliant with relevant laws and regulations.
 

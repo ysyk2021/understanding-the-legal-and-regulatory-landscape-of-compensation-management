@@ -1,5 +1,3 @@
-Chapter 6: Communicating About Compensation and Benefits
-========================================================
 
 In this chapter, we will explore the importance of effective communication about compensation and benefits. We will discuss techniques for communicating about compensation and benefits, the importance of transparency and clarity in compensation disclosures, and providing adequate information on benefits options.
 

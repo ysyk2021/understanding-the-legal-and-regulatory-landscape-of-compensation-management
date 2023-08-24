@@ -1,5 +1,3 @@
-Key Agencies and Enforcement Mechanisms
-==================================================
 
 In the realm of compensation management, understanding the roles of key agencies and enforcement mechanisms is crucial for organizations to navigate the complex legal and regulatory landscape. This chapter explores the important agencies and entities involved in regulating compensation practices, as well as the enforcement mechanisms they employ. We delve into their roles, responsibilities, and the implications for both employers and employees.
 

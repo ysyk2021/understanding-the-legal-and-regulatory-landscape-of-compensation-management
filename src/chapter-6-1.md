@@ -1,5 +1,3 @@
-Techniques for Communicating about Compensation and Benefits
-=====================================================================
 
 In this chapter, we will explore various techniques for effectively communicating about compensation and benefits within the legal and regulatory landscape of compensation management. Strong communication strategies are essential for organizations to ensure transparency, engage employees, and facilitate understanding of their compensation and benefits programs. This chapter will discuss key techniques, best practices, and considerations for communicating about compensation and benefits effectively.
 

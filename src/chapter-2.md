@@ -1,5 +1,3 @@
-Chapter 2: Overview of Compensation Management
-==============================================
 
 In this chapter, we will provide an overview of compensation management. We will explore different perspectives and approaches to compensation management, the impact of compensation on employee motivation and retention, and techniques for overcoming common challenges in compensation management.
 

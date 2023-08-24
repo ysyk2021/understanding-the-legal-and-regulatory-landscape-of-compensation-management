@@ -1,5 +1,3 @@
-Techniques for Auditing and Monitoring Compensation Practices
-======================================================================
 
 In this chapter, we will explore the techniques and best practices for auditing and monitoring compensation practices within an organization. Auditing and monitoring compensation practices are essential to ensure compliance with legal and regulatory requirements, promote fairness and equity, and mitigate any potential risks that may arise. By implementing effective auditing and monitoring techniques, organizations can identify and address any issues related to compensation effectively.
 

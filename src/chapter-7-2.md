@@ -1,5 +1,3 @@
-Conducting Internal and External Audits
-================================================
 
 In this chapter, we will explore the importance of conducting internal and external audits in the context of compensation management. Auditing compensation practices is a crucial step to ensure compliance with legal and regulatory requirements, identify potential risks, and promote fairness and equity within an organization. In this chapter, we will discuss the purpose, process, and best practices of conducting internal and external audits.
 

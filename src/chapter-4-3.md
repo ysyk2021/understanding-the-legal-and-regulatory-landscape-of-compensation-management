@@ -1,5 +1,3 @@
-Ensuring Equal Pay and Non-Discrimination
-====================================================
 
 In this chapter, we will explore the importance of ensuring equal pay and non-discrimination in compensation management. Pay equity and non-discrimination are essential principles that organizations must uphold to promote fairness, equality, and diversity. This chapter will discuss strategies and best practices for achieving these goals.
 

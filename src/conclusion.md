@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the legal and regulatory landscape of compensation management. We have discussed the importance of understanding relevant laws and regulations related to compensation, as well as strategies for designing and managing competitive, fair, and compliant compensation packages.
 

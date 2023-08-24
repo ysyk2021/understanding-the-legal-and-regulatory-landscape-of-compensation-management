@@ -1,5 +1,3 @@
-Avoiding Conflicts of Interest and Corruption
-======================================================
 
 In this chapter, we will explore the importance of avoiding conflicts of interest and corruption in the field of compensation management. Conflicts of interest can undermine fair and transparent decision-making processes, while corruption can have severe legal and reputational consequences for organizations. This chapter aims to provide an understanding of conflicts of interest and corruption, their implications, and strategies to prevent and address them effectively.
 
